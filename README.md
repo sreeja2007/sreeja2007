@@ -68,7 +68,7 @@ coding | tech | building cool stuff
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/sreeja2007/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/sreeja2007/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
