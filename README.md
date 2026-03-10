@@ -17,7 +17,9 @@ Full Stack Developer • Open Source Explorer
 
 ---
 
-# 👩‍💻 About Me
+<h2>
+<img src="https://img.shields.io/badge/About-Me-0d1117?style=for-the-badge&logo=readme&logoColor=white"/>
+</h2>
 
 ```bash
 > name: Sreeja Nair
@@ -26,12 +28,11 @@ Full Stack Developer • Open Source Explorer
 > interests: Web Development | System Design | Open Source
 > goal: Become a Software Development Engineer
 ```
-
-Passionate about **building scalable applications** and constantly improving my **problem-solving skills through DSA**.
-
 ---
 
-# 🚀 Tech Stack
+<h2>
+<img src="https://img.shields.io/badge/Tech-Stack-6a11cb?style=for-the-badge&logo=stackshare&logoColor=white"/>
+</h2>
 
 ### Programming Languages
 
@@ -65,7 +66,9 @@ Passionate about **building scalable applications** and constantly improving my 
 
 ---
 
-# 📊 GitHub Analytics
+<h2>
+<img src="https://img.shields.io/badge/GitHub-Analytics-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</h2>
 
 <p align="center">
 
@@ -73,9 +76,12 @@ Passionate about **building scalable applications** and constantly improving my 
 
 </p>
 
+
 ---
 
-# 📈 Contribution Activity
+<h2>
+<img src="https://img.shields.io/badge/Contribution-Activity-2ea44f?style=for-the-badge&logo=git&logoColor=white"/>
+</h2>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreeja2007&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true"/>
@@ -83,48 +89,55 @@ Passionate about **building scalable applications** and constantly improving my 
 
 ---
 
-# 🌟 Featured Projects
+<h2>
+<img src="https://img.shields.io/badge/Featured-Projects-f39c12?style=for-the-badge&logo=rocket&logoColor=white"/>
+</h2>
 
-### 🚀 Inkspire
+### Inkspire
 
-An **AI-powered story co-writer** built using **React and Node.js** that helps users generate and continue creative stories collaboratively.
+AI-powered **story co-writer** built using **React and Node.js** that helps users collaboratively generate creative stories.
 
-### 🔗 Lane Detection
+### Lane Detection
 
-A **computer vision project** built using **Python and OpenCV** to detect road lanes for intelligent transportation systems.
-
----
-
-# 🎯 Developer Goals
-
-✔ Master **Data Structures & Algorithms**
-
-✔ Build **high-performance backend systems**
-
-✔ Contribute to **open-source projects**
-
-✔ Improve **system design knowledge**
-
-✔ Land a **Software Development Engineer role**
+Computer vision project built using **Python and OpenCV** to detect road lanes for intelligent transportation systems.
 
 ---
 
-# 💻 Coding Activity
+<h2>
+<img src="https://img.shields.io/badge/Developer-Goals-6a11cb?style=for-the-badge&logo=target&logoColor=white"/>
+</h2>
+
+• Master **Data Structures & Algorithms**
+
+• Build **high-performance backend systems**
+
+• Contribute to **open-source projects**
+
+• Improve **system design knowledge**
+
+• Land a **Software Development Engineer role**
+
+---
+## Coding Practice
+
+<p align="center">
+<a href="https://leetcode.com/YOUR_USERNAME/">
+<img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=baloo&ext=heatmap"/>
+</a>
+</p>
+<h2>
+<img src="https://img.shields.io/badge/Coding-Activity-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+</h2>
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreeja2007&theme=tokyonight"/>
 </p>
 
 ---
-## Coding Practice
 
-<p align="center">
-<a href="https://leetcode.com/sreejanair2007/">
-<img src="https://leetcard.jacoblin.cool/sreejanair2007?theme=dark&font=baloo&ext=heatmap"/>
-</a>
-</p>
-
-# 🌐 Connect With Me
+<h2>
+<img src="https://img.shields.io/badge/Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</h2>
 
 <p align="center">
 
