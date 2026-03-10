@@ -121,8 +121,8 @@ Computer vision project built using **Python and OpenCV** to detect road lanes f
 ## Coding Practice
 
 <p align="center">
-<a href="https://leetcode.com/YOUR_USERNAME/">
-<img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=baloo&ext=heatmap"/>
+<a href="https://leetcode.com/sreejanair2007/">
+<img src="https://leetcard.jacoblin.cool/sreejanair2007?theme=dark&font=baloo&ext=heatmap"/>
 </a>
 </p>
 <h2>
