@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Hey, I'm SREEJA NAIR </h1>
+<h1 align="center">⚡ Hey, I'm SREEJA NAIR</h1>
 
 <p align="center">
 A developer who enjoys building things that live on the internet.
@@ -8,9 +8,13 @@ A developer who enjoys building things that live on the internet.
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Engineer;Open+Source+Explorer;Always+Learning+New+Tech"/>
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sreeja2007&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
 ---
 
-# 🖥 Developer Terminal
+## 🖥 Developer Terminal
 
 ```bash
 > whoami
@@ -31,21 +35,17 @@ coding | tech | building cool stuff
 
 ---
 
-# 🧠 My Tech Universe
+## 🧠 My Tech Universe
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java"/>
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express"/>
-<br>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/>
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java"/><br> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express"/><br> <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql"/><br> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
+
 </p>
 
 ---
 
-# 📊 Developer Metrics
+## 📊 Developer Metrics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sreeja2007&show_icons=true&theme=tokyonight"/>
@@ -55,9 +55,21 @@ coding | tech | building cool stuff
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreeja2007&theme=tokyonight"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeja2007&layout=compact&theme=tokyonight"/>
+</p>
+
 ---
 
-# 📈 Coding Activity
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sreeja2007&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 Coding Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreeja2007&theme=tokyo-night"/>
@@ -65,7 +77,7 @@ coding | tech | building cool stuff
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/sreeja2007/sreeja2007/output/github-contribution-grid-snake.svg"/>
@@ -73,7 +85,7 @@ coding | tech | building cool stuff
 
 ---
 
-# 🚀 Cool Projects
+## 🚀 Cool Projects
 
 🔹 **Project 1** – short description
 🔹 **Project 2** – short description
@@ -81,7 +93,7 @@ coding | tech | building cool stuff
 
 ---
 
-# 💭 Random Dev Quote
+## 💭 Random Dev Quote
 
 <p align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
@@ -89,22 +101,14 @@ coding | tech | building cool stuff
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/sreeja2007">
-GitHub
-</a> •
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-LinkedIn
-</a> •
-<a href="https://twitter.com/YOUR_TWITTER">
-Twitter
-</a>
+<a href="https://github.com/sreeja2007">GitHub</a> • <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> • <a href="https://twitter.com/YOUR_TWITTER">Twitter</a>
 
 </p>
 
 ---
 
-⭐ Built with curiosity and caffeine
+⭐ Built with curiosity and caffeine ☕
