@@ -16,7 +16,7 @@ A developer who enjoys building things that live on the internet.
 
 ## 🖥 Developer Terminal
 
-```bash
+```bash id="t8dr1l"
 > whoami
 SREEJA NAIR
 
@@ -61,14 +61,6 @@ coding | tech | building cool stuff
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sreeja2007&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
 ## 📈 Coding Activity
 
 <p align="center">
@@ -77,10 +69,10 @@ coding | tech | building cool stuff
 
 ---
 
-## 🐍 Contribution Snake
+## 🌆 3D Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/sreeja2007/sreeja2007/output/github-contribution-grid-snake.svg"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreeja2007&theme=tokyonight"/>
 </p>
 
 ---
