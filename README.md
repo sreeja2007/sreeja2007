@@ -101,6 +101,12 @@ AI-powered **story co-writer** built using **React and Node.js** that helps user
 
 Computer vision project built using **Python and OpenCV** to detect road lanes for intelligent transportation systems.
 
+### OpenTrack
+
+Your all-in-one developer productivity tool. Track repos, test APIs, and debug errors with AI — all in one place.
+
+<a href="https://github.com/sreeja2007/OpenTrack">OpenTrack</a>
+
 ---
 
 <h2>
